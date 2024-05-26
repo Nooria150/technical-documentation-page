@@ -99,10 +99,4 @@ footer {
     resize: horizontal;
     overflow-x: scroll;
   }
-
-  .image { 
-    
-    margin-left: 20px;
-    width: 70%;
-  }
 }
