@@ -27,6 +27,7 @@ cd technicle-documentaion-page
 
 open the index.html file in your browser
 ```
+
 ## Author 👩‍💻
 
 - Website: https://github.com/Nooria150/technical-documentation-page
