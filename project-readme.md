@@ -1,9 +1,14 @@
 # technicle documentaion page 🚀
 
 ## Project Description 📝
-sion for web development and coding. I find great joy in crafting websites and using them as educational tools to teach others about programming. This project is a manifestation of that inspiration.
-This learning website offers a comprehensive solution to Java-related challenges, providing clear and easily understandable resources for learners.
-Through this platform, I've acquired an extensive array of new coding techniques, delved into innovative website design concepts, and developed a strong proficiency in Java programming.
+This educational platform serves as a rich resource hub for Java enthusiasts, providing comprehensive information and tutorials to deepen understanding and mastery of the language.
+
+## table of contents
+- getting start with java.
+- java entry point.
+- printing to the console.
+- Declaring function.
+- Object oriented programming.
 
 ## Demo 📸
 
@@ -15,18 +20,20 @@ Through this platform, I've acquired an extensive array of new coding techniques
 
 ## Usage 🎯
 
-clone the project
-
+1.clone the repository to your local machine.
 ```bash
- git clone git@github.com:Nooria150/technical-documentation-page.git
+ git clone
 ```
- 
+2.after cloning write this command.
 ```bash
-cd technicle-documentaion-page
----
-
-open the index.html file in your browser
+cd (choose a file)
 ```
+
+3.After you choose file write this command to see all codes in vscode.
+```bash
+code .
+```
+
 
 ## Author 👩‍💻
 
