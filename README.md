@@ -13,6 +13,7 @@ This educational platform serves as a rich resource hub for Java enthusiasts, pr
 ## Demo 📸
 
 ![screenshot](./image/doc-page.png)
+- live link: https://nooria150.github.io/technical-documentation-page/
 
 ## Technologies Used 🛠️
 - HTML
