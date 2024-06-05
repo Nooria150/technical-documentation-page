@@ -13,7 +13,7 @@ This educational platform serves as a rich resource hub for Java enthusiasts, pr
 ## Demo 📸
 
 ![screenshot](./image/doc-page.png)
-- live link: https://nooria150.github.io/technical-documentation-page/
+- [live demo](https://nooria150.github.io/technical-documentation-page/)
 
 ## Technologies Used 🛠️
 - HTML
@@ -38,6 +38,6 @@ code .
 
 ## Author 👩‍💻
 
-- Website: https://github.com/Nooria150/technical-documentation-page
-- LinkedIn: https://www.linkedin.com/in/nooria-mangal-428a35309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: nooriamangal55@gmail.com
+- [websire](https://github.com/Nooria150/technical-documentation-page)
+- [LinkedIn:](https://www.linkedin.com/in/nooria-mangal-428a35309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Email:](nooriamangal55@gmail.com)
